@@ -1,4 +1,14 @@
-# Swift Bitcoin
+# Daia
+
+## Under construction
+
+This is a hard fork of the very excellent [swift-bitcoin](https://swift-bitcoin.github.io) project, with Daia-specific modifications.
+
+Changes made thus far:
+
+* Requiring macOS v15 (Sequoia) for ease of development.
+
+-----
 
 [documentation](https://swift-bitcoin.github.io/docc/documentation/bitcoin/) ∙ [blog](https://swift-bitcoin.github.io)
 

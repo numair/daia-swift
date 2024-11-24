@@ -2,7 +2,10 @@
 import PackageDescription
 
 let package = Package(
-    name: "swift-bitcoin",
+    name: "daia-swift",
+    platforms: [
+        .macOS(.v15)
+    ],
     products: [
         .library(name: "Bitcoin", targets: ["Bitcoin"]),
         .library(name: "BitcoinRPC", targets: ["BitcoinRPC"]),
